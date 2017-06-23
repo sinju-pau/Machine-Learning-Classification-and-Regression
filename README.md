@@ -1,3 +1,12 @@
 # Machine-Learning-Classification-Tasks
 
 A Classification Algorithm is a procedure for selecting a class from a set of alternatives that best fits a set of observations. An example would be predicting whether a customer would buy a certain product or not making use of the various shopping habits of the customers or assigning a diagnosis of a disease to a given patient as described by observed characteristics of the patient(gender, blood pressure, presence or absence of certain symptoms, etc.).
+
+This repository covers my humble analysis of datasets using various Classification algorithms. Tha analysis is performed in R as well as Python using Ipython Notebooks(.ipynb files). A working knowledge of R and Python is required to read through the scripts. 
+
+Here's a list of notebooks illustrating some of my current projects:
+
+
+1.  [MoveHub City Rankings Prediction - (Linear Regression and Support Vector Regression)](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Regression-Methods/blob/master/Movehubcityrankings.ipynb)
+
+2.  [Energy efficiency Analysis : Heating Load & Cooling Load predictions -(Various regression methods)](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Regression-Methods/blob/master/Energyefficiency.ipynb)
