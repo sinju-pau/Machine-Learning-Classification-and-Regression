@@ -10,3 +10,5 @@ Here's a list of notebooks illustrating some of my current projects:
 1.  [Occupancy Detection Using Classification Methods using Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Classification-Tasks/blob/master/Occupancydetector.ipynb)
 
 2.  [Magic Gamma Telescope : Predicting Signal Or Background using R](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Classification/blob/master/magicgamma.ipynb)
+
+3.  [Iris Data Classification using Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Classification/blob/master/magicgamma.ipynb)
