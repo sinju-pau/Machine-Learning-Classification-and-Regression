@@ -13,5 +13,8 @@ Here's a list of notebooks illustrating some of my current projects:
 
 3.  [Iris Data Classification (Multinomial) using Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Classification/blob/master/IrisDataClassification.ipynb)
 
-3.  [Glass Data Identification : Multinomial classification using R](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Classification/blob/master/GlassIdentificationData.ipynb)
+4.  [Glass Data Identification : Multinomial classification using R](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Classification/blob/master/GlassIdentificationData.ipynb)
+
+
+4.  [Credit Card Default predictions : XGBoost algorithm using R](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Classification/blob/master/GlassIdentificationData.ipynb)
 
