@@ -16,5 +16,5 @@ Here's a list of notebooks illustrating some of my current projects:
 4.  [Glass Data Identification : Multinomial classification using R](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Classification/blob/master/GlassIdentificationData.ipynb)
 
 
-4.  [Credit Card Default predictions : XGBoost algorithm using R](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Classification/blob/master/GlassIdentificationData.ipynb)
+4.  [Credit Card Default predictions : XGBoost algorithm using R](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Classification/blob/master/xGBoostOnCreditDefault.ipynb)
 
