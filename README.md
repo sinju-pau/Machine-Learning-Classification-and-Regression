@@ -18,3 +18,4 @@ Here's a list of notebooks illustrating some of my current projects:
 
 4.  [Credit Card Default predictions : XGBoost algorithm using R](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Classification/blob/master/xGBoostOnCreditDefault.ipynb)
 
+Identifying to which category an object belongs to, from a set of alternatives that best fits a set of observations, using Python and R
