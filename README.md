@@ -9,7 +9,7 @@ A Classification Algorithm is a procedure for selecting a class from a set of al
 Here's a list of notebooks illustrating some of my current projects:
 
 
-1.  [Occupancy Detection Using Various Classification Methods using Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Classification-and-Regression/blob/master/Occupancydetector.ipynb)
+1.  [Occupancy Detection Using Various Classification Methods using Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Classification-and-Regression/blob/master/Occupancydetector-C.ipynb)
 
 2.  [Magic Gamma Telescope : Predicting Signal Or Background - Classification using R](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Classification-and-Regression/blob/master/magicgamma.ipynb)
 
