@@ -1,6 +1,8 @@
-# Machine Learning : Classification and Regression Tasks
+# Machine Learning : Classification and Regression 
 
-This repository covers the analysis of datasets using various Classification and Regression algorithms with varying complexities. Tha analysis is performed in R as well as in Python using Ipython Notebooks(.ipynb files). A working knowledge of R and Python is required to read through the scripts.
+This repository covers the analysis of datasets using various Classification and Regression algorithms with varying complexities. Tha analysis is performed in R as well as in Python using Ipython Notebooks(.ipynb files). 
+
+A working knowledge of R and Python is required to read through the scripts.
 
 ## Classification
 
@@ -48,7 +50,7 @@ This repository requires **Python 3.6** and the following Python libraries insta
 
 **For R**
 
-This repository requires **R** and the installation instructions and support can be obtained :[R](https://cran.r-project.org/doc/manuals/r-release/R-admin.html)
+This repository requires **R** and the installation instructions and support can be obtained at :[R](https://cran.r-project.org/doc/manuals/r-release/R-admin.html)
 
 To install the libraries in R, appropriate codes will be given at the beginning of the notebook
 
@@ -75,4 +77,5 @@ jupyter notebook notebookname.ipynb
 This will open the Jupyter Notebook in your browser.
 
 ### Data
+
 The data files may required to be downloaded through the source links provided in the notebook and saved in the same Directory as the notebook file
