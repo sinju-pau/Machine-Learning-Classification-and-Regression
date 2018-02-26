@@ -58,11 +58,11 @@ You will also need to have software installed to run and execute a [Jupyter Note
 
 It is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. Make sure that Python 3.6 installer is selected. 
 
-### Code
+## Code
 
 Template code is provided in the `.ipynb` notebook files. Note that separate files such as .py or .R are not included in the repository. You can jump to the notebooks clicking on the links in appropriate sections.
 
-### Run
+## Run
 
 Download the required notebooks. In a terminal or command window, navigate to the top-level project directory(that contains this README) and run one of the following commands:
 
@@ -76,6 +76,6 @@ jupyter notebook notebookname.ipynb
 
 This will open the Jupyter Notebook in your browser.
 
-### Data
+## Data
 
 The data files may required to be downloaded through the source links provided in the notebook and saved in the same Directory as the notebook file
