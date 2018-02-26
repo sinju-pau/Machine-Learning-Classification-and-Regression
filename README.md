@@ -6,7 +6,7 @@ This repository covers the analysis of datasets using various Classification and
 
 A Classification Algorithm is a procedure for selecting a class from a set of alternatives that best fits a set of observations. An example would be predicting whether a customer would buy a certain product or not making use of the various shopping habits of the customers or assigning a diagnosis of a disease to a given patient as described by observed characteristics of the patient(gender, blood pressure, presence or absence of certain symptoms, etc.).
 
-Here's a list of notebooks illustrating some of my current projects:
+Here's a list of notebooks illustrating classification:
 
 
 1.  [Occupancy Detection Using Various Classification Methods using Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Classification-and-Regression/blob/master/Occupancydetector-C.ipynb)
@@ -24,7 +24,7 @@ Here's a list of notebooks illustrating some of my current projects:
 
 Regression is a statistical measure used in finance, investing and other disciplines that attempts to determine the strength of the relationship between one dependent variable (usually denoted by Y) and a series of other changing variables (known as independent variables).
 
-Here's a list of notebooks highlighting some of my current projects:
+Here's a list of notebooks highlighting regression:
 
 1.  [MoveHub City Rankings Prediction - (Linear Regression and Support Vector Regression) - using Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Classification-and-Regression/blob/master/Movehubcityrankings_m.ipynb)
 
@@ -73,5 +73,5 @@ jupyter notebook notebookname.ipynb
 
 This will open the Jupyter Notebook in your browser.
 
-## Data
-
+### Data
+The data files may required to be downloaded through the source links provided in the notebook and saved in the same Directory as the notebook file
